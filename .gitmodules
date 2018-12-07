@@ -1,0 +1,3 @@
+[submodule "pascal"]
+	path = pascal
+	url = https://bitbucket.org/nuttx/pascal.git
